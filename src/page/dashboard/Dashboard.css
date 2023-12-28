@@ -1,0 +1,24 @@
+.dashboard-container {
+    background-color: #FCFCFC;
+}
+
+.dashboard-container > :not(hr) {
+    padding: 1.35rem 1.5rem;
+}
+
+.dashboard-container hr {
+    border: 1px solid #F0F0F0;
+}
+
+
+
+/* Media Query */
+
+@media screen and (min-width: 992px) {
+    .dashboard-container > :not(hr) {
+        padding: 1.5rem 15rem 2.5rem 1.5rem;
+    }
+    .dashboard-container hr {
+        display: none;
+    }
+}

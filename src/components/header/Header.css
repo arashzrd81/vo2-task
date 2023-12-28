@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h2 {
+    font-size: 1.25rem;
+    color: #4D4D4D;
+}
+
+
+
+/* Media Query */
+
+@media screen and (min-width: 992px) {
+    header img {
+        display: none;
+    }
+}

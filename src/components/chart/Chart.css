@@ -1,0 +1,35 @@
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+
+.chart-container .info {
+    display: flex;
+    column-gap: 1.25rem;
+}
+
+.chart-container .info .select-box {
+    width: 100%;
+    z-index: 1;
+}
+
+.chart-container .chart-wrapper {
+    box-shadow: 0 5px 5px lightgray;
+}
+
+
+
+/* Media Query */
+
+@media screen and (min-width: 992px) {
+    .chart-container .info {
+        justify-content: flex-end;
+    }
+    .chart-container .info img {
+        cursor: pointer;
+    }
+    .chart-container .info .select-box {
+        width: 25%;
+    }
+}

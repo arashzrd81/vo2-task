@@ -1,0 +1,45 @@
+.events-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.5rem;
+}
+
+.events-container h3 {
+    font-size: 0.87rem;
+    color: #4D4D4D;
+}
+
+.events-container .events-wrapper {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+
+.events-container .events-wrapper .event {
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+}
+
+.events-wrapper .event .date {
+    width: 120px;
+}
+
+.events-wrapper .event .info {
+    display: flex;
+    align-items: center;
+    column-gap: 0.75rem;
+    color: #4D4D4D;
+}
+
+
+
+/* Media Query */
+
+@media screen and (min-width: 992px) {
+    .events-container .events-wrapper {
+        height: 210px;
+        flex-wrap: wrap;
+    }
+}
