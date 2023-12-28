@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vo2-task/static/css/main.599a077c.css",
+    "main.js": "/vo2-task/static/js/main.d27cead7.js",
+    "static/media/IRANSans.ttf": "/vo2-task/static/media/IRANSans.623768ac2bdc3c1f78df.ttf",
+    "static/media/setting.svg": "/vo2-task/static/media/setting.de919dc086bef8ea49e988266c1a56dc.svg",
+    "static/media/calendar.svg": "/vo2-task/static/media/calendar.dfb03cc1bd3e2331d045e3a84646baf7.svg",
+    "static/media/users.svg": "/vo2-task/static/media/users.8dd94176d05b5abdf073d16167f9c058.svg",
+    "static/media/dumbbell.svg": "/vo2-task/static/media/dumbbell.02d8e1b1aa5abaaca87c6be6a7e64146.svg",
+    "static/media/atp.svg": "/vo2-task/static/media/atp.8884c37326bbc70898b969dfd5012c8b.svg",
+    "static/media/notification.svg": "/vo2-task/static/media/notification.5ada5b8d9ce2a3edc57b10737c5754f4.svg",
+    "static/media/chart.svg": "/vo2-task/static/media/chart.72c44a0e5c2162daab76f02a05337ded.svg",
+    "static/media/route.svg": "/vo2-task/static/media/route.8097f11db9f2815c3f2d2db35eb925b7.svg",
+    "static/media/home.svg": "/vo2-task/static/media/home.eb0eadc1a028a56d1d3bfd31767b3027.svg",
+    "static/media/india-flag.svg": "/vo2-task/static/media/india-flag.5b0032e67e1abd980c516f97a1be3166.svg",
+    "index.html": "/vo2-task/index.html",
+    "static/media/bars.svg": "/vo2-task/static/media/bars.a084e05b53304962d22e0649cf214b87.svg",
+    "main.599a077c.css.map": "/vo2-task/static/css/main.599a077c.css.map",
+    "main.d27cead7.js.map": "/vo2-task/static/js/main.d27cead7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.599a077c.css",
+    "static/js/main.d27cead7.js"
+  ]
+}
